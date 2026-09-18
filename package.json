@@ -16,11 +16,7 @@
     "react-router-dom": "^7.18.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.1",
+    "@vitejs/plugin-react": "^6.1.1",
     "vite": "^8.3.0"
-  },
-  "overrides": {
-    "esbuild": "npm:esbuild-wasm@0.21.5",
-    "rollup": "npm:@rollup/wasm-node@^4.24.0"
   }
 }
